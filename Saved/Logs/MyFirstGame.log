@@ -1223,3 +1223,4 @@ Script Stack (0 frames) :
 [2024.07.17-23.22.12:346][966]LogSourceControl: Error: 'F:/Unreal Projects/MyFirtsGame' is not a valid Git repository
 [2024.07.17-23.23.56:806][437]LogDerivedDataCache: C:/Users/Janio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.322 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3949 files in 5787 folders with total size 605 MiB.
 [2024.07.17-23.28.54:301][477]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.07.17-23.45.49:787][654]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
