@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/Target.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/FirstPersonHUD.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/miraCabulosa.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/chsga.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/GMtargetgame.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/Bola.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/Cubo.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KE/TA4IWV20ESB659D9UI4WYF.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZC/JKN3HQMYLR8QX0660CANIQ.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/AC/BOL1XR4POEZQRISS1R55C8.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/H0/EQEU7KFKXASTV0WFE1IXS6.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/WBP-UI.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/E9/XNPVPNQ4ERGRNWKC0MY3HM.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/MK/1WY180TR7PUGXPV47TUITJ.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/M7/JIYADARYB3C7WJCC2LDYED.uasset",
+				"F:/Unreal Projects/MyFirtsGame/Content/FirstPerson/Blueprints/End.uasset",
+				"F:/Unreal Projects/MyFirtsGame/Content/FirstPerson/Blueprints/GMtargetgame.uasset",
+				"F:/Unreal Projects/MyFirtsGame/Content/FirstPerson/Blueprints/WBP-UI.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9P/XMVWLKMZ948JV16DD00JFH.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/D1/GWF698V36CFWFKJO4I9JHB.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/UP/CYRMUE8UQN3H1IAOVFL9J7.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/WW/08ROEWVCIEEEYPF4FJNCUP.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PD/8FU7UW9B3TA58D0KGHXU2A.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/R6/W6MXCWUCRS8IWK0IUW5A2N.uasset",
+				"C:/Users/Janio/Desktop/MyFirtsGame/Content/FirstPerson/Blueprints/Gm_Krikor.uasset"
+			]
+		}
+	]
+}
